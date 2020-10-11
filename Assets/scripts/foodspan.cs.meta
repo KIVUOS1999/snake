@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c53e202249f721341975b94dffd38ed2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - l_wall: {fileID: 4334518315875928731, guid: a662e502cb70cca43b77b32b50c15dc1,
+      type: 3}
+  - r_wall: {fileID: 8070553228806189021, guid: 6dc7f2a1251d49d4faea1aa08084892b,
+      type: 3}
+  - t_wall: {fileID: 2099041079064105663, guid: 59fcaf7172323564e8b04309907658a5,
+      type: 3}
+  - b_wall: {fileID: 4390560330910271424, guid: 0c4f01caad24c9645ba8c629ff116e77,
+      type: 3}
+  - food: {fileID: 2053177179141712469, guid: 4f126c10302a6d540a01e4344fb31bc6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
